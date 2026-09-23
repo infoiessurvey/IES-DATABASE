@@ -20,7 +20,7 @@ import proj4 from "proj4";
 import shp from "shpjs";
 import { kml } from "@tmcw/togeojson";
 
-import "./styles.css";
+import "src/styles.css";
 
 /* =========================================================
    SUPABASE STORAGE
